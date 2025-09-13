@@ -55,6 +55,23 @@ Download the dataset from Kaggle and place `creditcard.csv` inside the `data/` f
 ```bash
 python main.py
 ```
+## 🧾 Evaluation Metrics
+
+### 🔹 Logistic Regression
+Confusion Matrix:  
+![Logistic Regression Confusion Matrix](img/LogisticRegression.png)
+
+---
+
+### 🔹 Random Forest
+Confusion Matrix:  
+![Random Forest Confusion Matrix](img/RandomForest.png)
+
+---
+
+### 🔹 Gradient Boosting
+Confusion Matrix:  
+![Gradient Boosting Confusion Matrix](img/GradientBoosting.png)
 
 ---
 
