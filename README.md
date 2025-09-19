@@ -141,7 +141,7 @@ pip install -r requirements.txt
 ---
 
 ## 👨‍💻 Author
-- **Your Name**  
+- **Indronath Basu**  
 - Student, SRM Institute of Science and Technology  
 - Passionate about AI/ML, Computer Vision, NLP, and Cybersecurity  
 
